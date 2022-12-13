@@ -45,5 +45,5 @@ export default {
 		['link', { rel: 'icon', href: '/dc-icon.png' }]
 	],
 	titleTemplate: 'Dynamis',
-	base: '/'
+	base: '/dynamis/'
 }
