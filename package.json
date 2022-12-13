@@ -1,0 +1,17 @@
+{
+  "name": "xiv-modding",
+  "version": "1.0.0",
+  "description": "XIV Modding Compendium",
+  "main": "index.md",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "author": "notecard",
+  "license": "ISC",
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.27",
+    "vue": "^3.2.37"
+  }
+}
