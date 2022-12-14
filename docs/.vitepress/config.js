@@ -40,7 +40,7 @@ export default {
 		},
 	},
 	cleanUrls: 'without-subfolders',
-	lastUpdated: false,
+	lastUpdated: true,
 	head: [
 		['link', { rel: 'icon', href: '/dc-icon.png' }]
 	],
